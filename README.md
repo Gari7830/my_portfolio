@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to logistics, supply chain management, and time series algorithms🚚  
   
 
-- ⚡ Fun fact: I make delicious capuccinos 🥰☕☕  
+- ⚡ Fun fact: I make delicious cappuccinos 🥰☕☕  
   
 
 <br/>  
