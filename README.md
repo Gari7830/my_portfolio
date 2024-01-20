@@ -5,13 +5,13 @@
 
 ### <div align="center">I'm Edgar, a recently graduated data scientist 👨‍💻 interested in logistics, supply chain management, marketing, and data analysis📊📉📈</div>  
 
-- Here you can find my projects in data science, data analysis, and Power BI.  New Projects will be added in time. 
+- Here you can find my projects in data science🧑🏻‍💻 data analysis, and Power BI.  New Projects will be added in time 💼 💼 
   
 
-- 🔭 I’m seeking new job opportunities in data science, data analysis, or business intelligence. Here you can find 
+- 🔭 I’m seeking new job opportunities in data science, data analysis, or business intelligence.  
   
 
-- 🌱 I want to learn everything related to data science and artificial intelligence, so I keep myself studying data science topics continuously  
+- 🌱 I want to learn everything related to data science and artificial intelligence, so I keep myself studying data science continuously  
   
 
 - ❓ Ask me about anything related to logistics, supply chain management, Mexico's customs law, or international trade topics  
