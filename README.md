@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Edgar, a recently graduated data scientist 👨‍💻 interested in logistics, supply chain management, marketing, and data analysis📊📉📈</div>  
 
-- Here you can find my projects in data science🧑🏻‍💻 data analysis, and Power BI.  New Projects will be added in time 💼 💼 
+- 💼 Here you can find my projects in data science🧑🏻‍💻 data analysis, and Power BI.  New Projects will be added in time.  
   
 
 - 🔭 I’m seeking new job opportunities in data science, data analysis, or business intelligence.  
